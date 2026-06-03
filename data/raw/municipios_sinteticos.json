@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nome": "Porto Alegre",
+    "risco": 0.72,
+    "custo": 1850.0,
+    "populacao": 1400000,
+    "cenario": "RS"
+  },
+  {
+    "id": 2,
+    "nome": "Canoas",
+    "risco": 0.84,
+    "custo": 1200.0,
+    "populacao": 350000,
+    "cenario": "RS"
+  }
+]

@@ -2,3 +2,5 @@ pandas
 matplotlib
 networkx
 pytest
+os
+sys

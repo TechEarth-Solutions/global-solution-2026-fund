@@ -14,5 +14,69 @@
     "custo": 1200.0,
     "populacao": 350000,
     "cenario": "RS"
+  },
+  {
+    "id": 3,
+    "nome": "São Leopoldo",
+    "risco": 0.79,
+    "custo": 1100.0,
+    "populacao": 240000,
+    "cenario": "RS"
+  },
+  {
+    "id":4,
+    "nome": "Novo Hamburgo",
+    "risco": 0.68,
+    "custo": 1300.0,
+    "populacao": 245000,
+    "cenario": "RS"
+  },
+  {
+    "id": 5,
+    "nome": "Pelotas",
+    "risco": 0.63,
+    "custo": 1600.0,
+    "populacao": 330000,
+    "cenario": "RS"
+  },
+  {
+    "id": 6,
+    "nome": "Balsas",
+    "risco": 0.88,
+    "custo": 1750.0,
+    "populacao": 96000,
+    "cenario": "MATOPIBA"
+  },
+  {
+    "id": 7,
+    "nome": "Palmas",
+    "risco": 0.74,
+    "custo": 1650.0,
+    "populacao": 310000,
+    "cenario": "MATOPIBA"
+  },
+  {
+    "id": 8,
+    "nome": "Barreiras",
+    "risco": 0.81,
+    "custo": 1500.0,
+    "populacao": 160000,
+    "cenario": "MATOPIBA"
+  },
+  {
+    "id": 9,
+    "nome": "Uruçuí",
+    "risco": 0.91,
+    "custo": 1400.0,
+    "populacao": 22000,
+    "cenario": "MATOPIBA"
+  },
+  {
+    "id": 10,
+    "nome": "Luís Eduardo Magalhães",
+    "risco": 0.77,
+    "custo": 1450.0,
+    "populacao": 110000,
+    "cenario": "MATOPIBA"
   }
 ]
